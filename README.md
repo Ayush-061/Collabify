@@ -1,7 +1,7 @@
 # Whiteboard Collaboration
 
 ## Overview
-[LIVE LINK](https://collabify-whiteboard.vercel.app/)
+
 
 Whiteboard Collaboration is an interactive and real-time web application where users can create rooms and draw together on a shared canvas. This project utilizes modern web technologies to provide a seamless and responsive user experience.
 
